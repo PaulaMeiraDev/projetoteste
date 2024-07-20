@@ -303,6 +303,14 @@ footer .line2 a:hover{
 
 /* FOOTER */
 
+    footer .line1{
+        display: flex;
+        flex-direction: column;
+    }
 
+    footer .adress{
+        width: 90%;
+        margin-bottom: 20px;
+    }
 
 }
